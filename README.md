@@ -1,4 +1,4 @@
-# Patika Dev ile Developr Yolculuğum
+# Patika Dev ile Developer Yolculuğum
 
 ### Contribution guidelines
 
