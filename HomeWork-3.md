@@ -14,7 +14,7 @@ Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir. Read
 
 >**Root'un sağından y bulunur. Bu değerin root değerinden büyük olması gerekmektedir.**
 
->** Solunda z bulunur, Bu değerinde root değerindne küçük olması gerekmektedir.**
+>**Solunda z bulunur, Bu değerinde root değerindne küçük olması gerekmektedir.**
 
 
 |     Açıklama    |  |  |  |
