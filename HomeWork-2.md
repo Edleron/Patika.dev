@@ -20,7 +20,7 @@ Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir.
 |                                                 |16|  |21|  |11|  |  |8 |  |12|  |22|
 
 
-######  Bölme işlemi bitikten sonra, tek elemanlı kalan arraylar, tüm bir grup olana kadar birleştirme işlemi yapılır.
+######  Tek elemanlı kalan arraylar, Arrayların Hepsi bir grup olana kadar birleştirme işlemi yapılır.
 
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
 |----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
