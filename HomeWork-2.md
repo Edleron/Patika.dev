@@ -11,7 +11,7 @@ Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir.
 
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |- |
-|Diziyi ikiye bölerek yeniden yazıyoruz           |  |  |  |16|21|11|8 |12|22|  |  |  |
+|Adım 1                                           |  |  |  |16|21|11|8 |12|22|  |  |  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |Sol ve sağdaki dizileri tekrar ikiye böluyoruz.  |  |  |16|21|11|  |  |8 |12|22|  |  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
