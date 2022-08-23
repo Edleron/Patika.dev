@@ -1,6 +1,6 @@
 # Merge Sort Projesi
 
-Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir.
+Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir. Readme Tasarımı için [https://github.com/salihdamar/Veri-Yapilari-ve-Algoritmalar/] reposundan faydanılmıştır.
 
 **[16,21,11,8,12,22]**
 
