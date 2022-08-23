@@ -30,8 +30,11 @@ O(n^2)
 ***
 
 **! Time Complexity Süreçleri:**  
+
 >**Average case:**  Aradığımız sayının ortada olması 
+
 >**Worst case:**  Aradığımız sayının sonda olması
+
 >**Best case:**  Aradığımız sayının dizinin en başında olması.
 
 ***
