@@ -29,10 +29,11 @@ Bu dosya [patika.dev](https://www.patika.dev/tr)'e ait olan "Veri Yapıları ve 
 O(n^2)
 ***
 
-**!** ###Time Complexity Süreçleri###: 
-**Average case:**  Aradığımız sayının ortada olması 
-**Worst case:**  Aradığımız sayının sonda olması
-**Best case:**  Aradığımız sayının dizinin en başında olması.
+**! Time Complexity Süreçleri:**  
+>**Average case:**  Aradığımız sayının ortada olması 
+>**Worst case:**  Aradığımız sayının sonda olması
+>**Best case:**  Aradığımız sayının dizinin en başında olması.
+
 ***
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
