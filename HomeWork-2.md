@@ -9,7 +9,7 @@ Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir.
 
 ###### Başlangıçta array ikiye bölünür. Bölünen arrayları tek eleman kalana kadar bölme işlemini yapılır
 
-|                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
+
 |-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |- |
 |Adım 1                                           |  |  |  |16|21|11|8 |12|22|  |  |  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
