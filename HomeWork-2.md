@@ -10,12 +10,12 @@ Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir.
 ###### Başlangıçta array ikiye bölünür. Bölünen arrayları tek eleman kalana kadar bölme işlemini yapılır
 
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
-|                                                 |- |- |- |- |- |- |- |- |- |- |- |- |
-|Adım 1                                           |  |  |  |16|21|11|8 |12|22|  |  |  |
+|-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |- |
+|Case 1                                           |  |  |  |16|21|11|8 |12|22|  |  |  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
-|Sol ve sağdaki dizileri tekrar ikiye böluyoruz.  |  |  |16|21|11|  |  |8 |12|22|  |  |
+|Case 2                                           |  |  |16|21|11|  |  |8 |12|22|  |  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
-|Tek eleman kalana kadar bir kez daha bölüyoruz.  |  |16|21|  |11|  |  |8 |  |12|22|  |
+|Case 3                                           |  |16|21|  |11|  |  |8 |  |12|22|  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |                                                 |16|  |21|  |11|  |  |8 |  |12|  |22|
 
@@ -23,14 +23,14 @@ Bu dosya [patika.dev] Veri Yapıları ve Algoritma Ödevini İçermektedir.
 ######  Bölme işlemi bitikten sonra, tek elemanlı kalan arraylar, tüm bir grup olana kadar birleştirme işlemi yapılır.
 
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
-|                                                |- |- |- |- |- |- |- |- |- |- |- |- |
+|----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
 |                                                |16|  |21|  |11|  |  |8 |  |12|  |22|
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
-|ikili ikili ikili sıralayarak birleştiriyoruz.  |  |16|21|  |11|  |  |8 |  |12|22|  |
+|Case 4                                          |  |16|21|  |11|  |  |8 |  |12|22|  |
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
-|Tekrar ikili ikili sıralayarak birleştiriyoruz. |  |  |11|16|21|  |  |8 |12|22|  |  |
+|Case 5                                          |  |  |11|16|21|  |  |8 |12|22|  |  |
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
-|Son birleştirmede dizimizi elde ediyoruz.       |  |  |  |8 |11|12|16|21|22|  |  |  |
+|Result                                          |  |  |  |8 |11|12|16|21|22|  |  |  |
 
 ***
 ### 2. Big-O gösterimini yazınız.
