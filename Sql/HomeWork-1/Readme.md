@@ -26,6 +26,8 @@ https://github.com/Edleron/Patika.dev/tree/main/Sql/HomeWork-1/SourceCode
 ### Who do I talk to?
 
 * Repo owner or edleron@hotmail.com
+
+|| -> 
 ``` 
-|| -> Repo owner or edleron@hotmail.com
+Repo owner or edleron@hotmail.com
 ```
