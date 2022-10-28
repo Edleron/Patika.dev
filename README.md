@@ -10,6 +10,7 @@
 ### Who do I talk to?
 
 * Repo owner or edleron@hotmail.com
+
+#### OR 
 ``` 
-|| -> Repo owner or edleron@hotmail.com
-```
+edleron@hotmail.com 
