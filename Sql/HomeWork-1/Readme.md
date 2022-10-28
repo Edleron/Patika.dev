@@ -47,7 +47,7 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer
 
 * Repo owner or edleron@hotmail.com
 
-|| -> 
+|| -> Repo owner or
 ``` 
-Repo owner or edleron@hotmail.com
+edleron@hotmail.com
 ```
