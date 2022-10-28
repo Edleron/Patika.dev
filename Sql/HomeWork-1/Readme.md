@@ -43,31 +43,31 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-5.sql
 ```
 
-### Answers
+### Result
 
 * Result Home Work - 1
 ```
-https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-1.sql
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-1.csv
 ```
 
 * Result Home Work - 2
 ```
-https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-2.sql
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-2.csv
 ```
 
 * Result Home Work - 3
 ```
-https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-3.sql
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-4.csv
 ```
 
 * Result Home Work - 4
 ```
-https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-4.sql
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-5.csv
 ```
 
 * Result Home Work - 5
 ```
-https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-5.sql
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-5.csv
 ```
 
 ### Who do I talk to?
