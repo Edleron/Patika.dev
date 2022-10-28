@@ -18,7 +18,9 @@
 
 ### Answers
 
-* 1 - ```Path https://github.com/Edleron/Patika.dev/tree/main/Sql/HomeWork-1/SourceCode ```
+* 1 - ```Path
+https://github.com/Edleron/Patika.dev/tree/main/Sql/HomeWork-1/SourceCode
+```
 
 ### Who do I talk to?
 
