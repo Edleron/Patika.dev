@@ -1,1 +1,1 @@
-select title, description from film;
+SELECT title, description FROM film;
