@@ -18,27 +18,54 @@
 
 ### Answers
 
-* Home Work - 1
+* Soruce Code Home Work - 1
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-1.sql
 ```
 
-* Home Work - 2
+* Soruce Code Home Work - 2
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-2.sql
 ```
 
-* Home Work - 3
+* Soruce Code Home Work - 3
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-3.sql
 ```
 
-* Home Work - 4
+* Soruce Code Home Work - 4
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-4.sql
 ```
 
-* Home Work - 5
+* Soruce Code Home Work - 5
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-5.sql
+```
+
+### Answers
+
+* Result Home Work - 1
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-1.sql
+```
+
+* Result Home Work - 2
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-2.sql
+```
+
+* Result Home Work - 3
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-3.sql
+```
+
+* Result Home Work - 4
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-4.sql
+```
+
+* Result Home Work - 5
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-5.sql
 ```
