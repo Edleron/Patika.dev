@@ -1,16 +1,16 @@
 # Kodluyoruz İlk Repo
-Bu repo kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo kodluyoruz Git eğitiminde oluşturduğumuz ilk repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 Öncelikle projeyi clonlayın.(Buraya sizin reponuzdan aldığımız linkk gelecek)
 ```
-git clone https://github.com/edleron/kodluyoruzilkreo.git
+git clone https://github.com/edleron/Patika.dev.git
 ```
 ## Usage
 Projeyi cloneladıktan sonra Visual Studıo Code programında açınız.
 Linux için:
 ```
-cd kodluyoruzilkrepo
+cd Patika.Dev
 code .
 ```
 ## Contributing
