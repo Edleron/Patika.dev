@@ -20,7 +20,27 @@
 
 * Home Work - 1
 ```
-https://github.com/Edleron/Patika.dev/tree/main/Sql/HomeWork-1/SourceCode
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-1.sql
+```
+
+* Home Work - 2
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-2.sql
+```
+
+* Home Work - 3
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-3.sql
+```
+
+* Home Work - 4
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-4.sql
+```
+
+* Home Work - 5
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-5.sql
 ```
 
 ### Who do I talk to?
