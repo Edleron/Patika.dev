@@ -78,3 +78,5 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-5.c
 ``` 
 edleron@hotmail.com 
 ```
+
+### Happy Codings
