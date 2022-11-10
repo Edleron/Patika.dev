@@ -57,12 +57,12 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-2.c
 
 * Result Answer - 3
 ```
-https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-4.csv
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-3.csv
 ```
 
 * Result Answer - 4
 ```
-https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-5.csv
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-4.csv
 ```
 
 * Result Answer - 5
