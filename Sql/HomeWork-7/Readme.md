@@ -4,6 +4,11 @@
 
 * Patika Sql Homeworks - 7
 
+### ÖĞRENİLEN KONULAR
+1. GROUP BY -> Keyword'u bazı şartlara göre bazı sütünları gruplayıp bize baz bilgiler verilmesine olanak sağlar.
+2. HAVING -> Keyword'ü gruplandırılmış verilere şart koymamıza olanak verir.
+3. ALIAS -> Keyword'ü ile oluşturduğumuz veri setine, sanla tablo ve sütünlara geçici isimler vermemize olanak sağlar.
+
 ### Homework Description
 
 * Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.

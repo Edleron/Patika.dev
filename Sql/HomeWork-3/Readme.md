@@ -4,6 +4,9 @@
 
 * Patika Sql Homeworks - 3
 
+### ÖĞRENİLEN KONULAR
+1. LIKE -> Bir metinsal ifadenin içine şart yazılarak condition süreçlerinin kapsayan keyword yappısıdır.
+
 ### Homework Description
 
 * Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.

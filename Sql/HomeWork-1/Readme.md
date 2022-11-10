@@ -4,6 +4,13 @@
 
 * Patika Sql Homeworks - 1
 
+### ÖĞRENİLEN KONULAR
+1. SELECT -> Seçilen sütün keyword'ü
+2. "*" -> Tüm sütünlar getirir
+3. WHERE -> Matematiksal operatörler ile Condition belirtilir. WHERE "sütün_ismi" > 0.99
+4. WHERE -> Mantıksal operatörler ile Condition belirtilir. WHERE "sütün_ismi" > 0.99 AND "sütün_ismi" > 1.99
+5. NOT -> keyword'ü ile değilse durumu WHERE koşulu içerisine koyulur.
+
 ### Homework Description
 
 * Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
