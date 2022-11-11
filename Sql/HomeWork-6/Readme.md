@@ -7,8 +7,9 @@
 ### ÖĞRENİLEN KONULAR
 1. AVG -> Keyword'u ortalama alır
 2. COUNT -> Keyword'ü o değeri sayar.
-3. MAX -> Keyword'ü max değerinin gösterir
-4. MIN -> Keyword'ü min değerini gösterir.
+3. SUM -> Keyword'ü toplama işlemi yapar.
+4. MAX -> Keyword'ü max değerinin gösterir
+5. MIN -> Keyword'ü min değerini gösterir.
 
 ### Homework Description
 
