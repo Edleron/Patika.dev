@@ -6,12 +6,18 @@
 * Other guidelines
 * Hackerrank Code Challenges
 
-### Dotnet Console Setup
+### Dotnet Console Setup & Run
 
 ```
 dotnet new console => Init Dotnet console projects
 
 dotnet run => Run projects
+```
+
+### Node Js Setup & run
+
+```
+node "scriptName.js"
 ```
 
 ### Todo Roadmap List
