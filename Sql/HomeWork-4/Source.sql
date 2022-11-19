@@ -1,0 +1,2 @@
+// DISTINCT                 ->      Belirteci tekrar eden verileri engelleyip sadece farklı değerleri gösterme işlemi yapar.
+// COUNT                    ->      Belirteci sorgu yaptığımız verilerde bize sayısal veriler dönmesi yararı sağlar. Örnek x isimli kaç aktör var.

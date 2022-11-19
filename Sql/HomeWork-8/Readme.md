@@ -5,6 +5,7 @@
 * Patika Sql Homeworks - 8
 
 ### ÖĞRENİLEN KONULAR
+
 1. CREATE TABLE -> Keyword'u yeni bir tablo oluştutur.
 2. INSERT INTO -> Keyword'u yeni bir data ekler.
 3. Tablo Kopyalama -> işlemleri TabloCopy.sql'de anlatışmıştır.
@@ -20,49 +21,56 @@
 3. Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 4. Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
 
-------
+---
 
 ### Answers
 
 * Soruce Code Answer - 1
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/SourceCode/Answer-1.sql
 ```
 
 * Soruce Code Answer - 2
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/SourceCode/Answer-2.sql
 ```
 
 * Soruce Code Answer - 3
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/SourceCode/Answer-3.sql
 ```
 
 * Soruce Code Answer - 4
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/SourceCode/Answer-4.sql
 ```
 
-
 ### Result
 
 * Result Answer - 1
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/Result/Result-1.csv
 ```
 
 * Result Answer - 2
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/Result/Result-2.csv
 ```
 
 * Result Answer - 3
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/Result/Result-3.csv
 ```
 
 * Result Answer - 4
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/Result/Result-4.csv
 ```
@@ -71,8 +79,9 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-8/Result/Result-4.c
 
 * Repo owner or edleron@hotmail.com
 
-#### OR 
-``` 
+#### OR
+
+```
 edleron@hotmail.com 
 ```
 

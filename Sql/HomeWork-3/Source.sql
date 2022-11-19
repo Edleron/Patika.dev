@@ -1,0 +1,1 @@
+// LIKE                 ->      Bir metinsal ifadenin içine şart yazılarak condition süreçlerinin kapsayan keyword yapısıdır.  

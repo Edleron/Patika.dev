@@ -4,10 +4,6 @@
 
 * Patika Sql Homeworks - 4
 
-### ÖĞRENİLEN KONULAR
-1. DISTINCT -> Keyword'ü tekrar eden verileri engelleyip sadece farklı değerleri gösterme işlemi yapar.
-2. COUNT -> Keyword'u sorgu yaptığımız verilerde bize sayısal veriler dönmesi yararı sağlar. Örnek x isimli kaç aktör var.
-
 ### Homework Description
 
 * Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
@@ -18,31 +14,36 @@
 4. **Country** tablosunda bulunan ülke isimlerinden **(country) kaç tanesi 5 karakterden** oluşmaktadır?
 5. **City** tablosundaki şehir isimlerinin kaç tanesi **'R' veya r** karakteri ile biter?
 
-------
+---
 
 ### Answers
 
 * Soruce Code Answer - 1
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/SourceCode/Answer-1.sql
 ```
 
 * Soruce Code Answer - 2
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/SourceCode/Answer-2.sql
 ```
 
 * Soruce Code Answer - 3
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/SourceCode/Answer-3.sql
 ```
 
 * Soruce Code Answer - 4
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/SourceCode/Answer-4.sql
 ```
 
 * Soruce Code Answer - 5
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/SourceCode/Answer-5.sql
 ```
@@ -50,26 +51,31 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/SourceCode/Answer
 ### Result
 
 * Result Answer - 1
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-1.csv
 ```
 
 * Result Answer - 2
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-2.csv
 ```
 
 * Result Answer - 3
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-3.csv
 ```
 
 * Result Answer - 4
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-4.csv
 ```
 
 * Result Answer - 5
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-5.csv
 ```
@@ -78,8 +84,9 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-4/Result/Result-5.c
 
 * Repo owner or edleron@hotmail.com
 
-#### OR 
-``` 
+#### OR
+
+```
 edleron@hotmail.com 
 ```
 

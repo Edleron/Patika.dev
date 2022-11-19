@@ -1,0 +1,2 @@
+// BETWEEN              ->      Belirteci ise AND mantıksa operatörüne denk gelir, dahil edilen sınırlar şart içerisindedir.
+// IN                   ->      Belirteci ise == operatörüne denk gelir, tek tek yazmak yerine parantez işaratlerini içerisine entegre edilir.

@@ -5,6 +5,7 @@
 * Patika Sql Homeworks - 1
 
 ### ÖĞRENİLEN KONULAR
+
 1. SELECT -> Seçilen sütün keyword'ü
 2. "*" -> Tüm sütünlar getirir
 3. WHERE -> Matematiksal operatörler ile Condition belirtilir. WHERE "sütün_ismi" > 0.99
@@ -21,31 +22,36 @@
 4. **Customer** tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
 5. **Film** tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 
-------
+---
 
 ### Answers
 
 * Soruce Code Answer - 1
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-1.sql
 ```
 
 * Soruce Code Answer - 2
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-2.sql
 ```
 
 * Soruce Code Answer - 3
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-3.sql
 ```
 
 * Soruce Code Answer - 4
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-4.sql
 ```
 
 * Soruce Code Answer - 5
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer-5.sql
 ```
@@ -53,26 +59,31 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/SourceCode/Answer
 ### Result
 
 * Result Answer - 1
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-1.csv
 ```
 
 * Result Answer - 2
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-2.csv
 ```
 
 * Result Answer - 3
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-4.csv
 ```
 
 * Result Answer - 4
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-5.csv
 ```
 
 * Result Answer - 5
+
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-5.csv
 ```
@@ -81,7 +92,8 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-1/Result/Result-5.c
 
 * Repo owner or edleron@hotmail.com
 
-#### OR 
-``` 
+#### OR
+
+```
 edleron@hotmail.com 
 ```
