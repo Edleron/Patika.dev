@@ -32,13 +32,4 @@ function processData(input) {
 }
 
 variables = [2, "Hacker", "Rank"]
-//processData();
-
-function Test(){
-    let abc = 0.025;
-    for (let index = 0; index < 20; index++) {
-        abc = abc + 0.025;        
-    }
-    console.log(abc);
-}
-Test();
+processData();
