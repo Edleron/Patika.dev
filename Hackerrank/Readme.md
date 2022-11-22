@@ -12,6 +12,9 @@
 dotnet new console => Init Dotnet console projects
 
 dotnet run => Run projects
+
+Terminal -> cd  	|| dosya gezintisi.
+Terminal -> cd..  	|| bir üst dosyaya geri dönme
 ```
 
 ### Node Js Setup & run
