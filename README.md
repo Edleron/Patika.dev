@@ -6,15 +6,12 @@
 * Other guidelines
 * Patika Homeworks
 
-
 ### Who do I talk to?
 
 * Repo owner or edleron@hotmail.com
 
-#### OR 
-``` 
-edleron@hotmail.com 
+#### OR
 
-#### || 
-``` 
-Ertugrul
+```
+edleron@hotmail.com 
+```
