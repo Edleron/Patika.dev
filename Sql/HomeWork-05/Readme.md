@@ -4,6 +4,14 @@
 
 * Patika Sql Homeworks - 5
 
+### ÖĞRENİLEN KONULAR
+
+1. ORDER BY -> Keyword'u verileri gruplayıp büyükten küçüğü yada A - Z ye sıramala işlemi yapar. Default olarak ASC değeri gelir.
+2. ASC-> Keyword'ü artan sırada sıralama yapar.
+3. DESC -> Keyword'ü azalan sırada sıralama yapar.
+4. LIMIT -> Keyword'ü gösterilecek veri sayısını belirtir. Örnek 5 tane veri göster gibi.
+5. OFFSET -> Keyword'ü gösterilen verilerde atlama işlemi yapar. Örnek ile 5'ini gösterme
+
 ### Homework Description
 
 * Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.

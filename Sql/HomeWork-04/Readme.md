@@ -4,6 +4,11 @@
 
 * Patika Sql Homeworks - 4
 
+### ÖĞRENİLEN KONULAR
+
+1. DISTINCT -> Belirteci tekrar eden verileri engelleyip sadece farklı değerleri gösterme işlemi yapar.
+2. COUNT -> Belirteci sorgu yaptığımız verilerde bize sayısal veriler dönmesi yararı sağlar. Örnek x isimli kaç aktör var.
+
 ### Homework Description
 
 * Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.

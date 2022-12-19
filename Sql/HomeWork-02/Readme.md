@@ -4,6 +4,11 @@
 
 * Patika Sql Homeworks - 2
 
+### ÖĞRENİLEN KONULAR
+
+1. BETWEEN -> Belirteci ise AND mantıksa operatörüne denk gelir, dahil edilen sınırlar şart içerisindedir.
+2. IN -> Belirteci ise == operatörüne denk gelir, tek tek yazmak yerine parantez işaratlerini içerisine entegre edilir.
+
 ### Homework Description
 
 * Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
