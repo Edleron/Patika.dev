@@ -1,0 +1,3 @@
+// LEFT INNER JOIN                 ->      Keyword'u birden fazla tabloyu sanallaştırarak birleştirme işlemi gerçekleştirir. Sanallaştırmayı ilk tablo üzerinden gerçekleştirir.
+// RIGHT INNER JOIN                ->      Keyword'u birden fazla tabloyu sanallaştırarak birleştirme işlemi gerçekleştirir. Sanallaştırmayı ikinci tablo üzerinden gerçekleştirir.
+// FULL INNER JOIN                 ->      Keyword'u birden fazla tabloyu sanallaştırarak birleştirme işlemi gerçekleştirir. Sanallaştırmayı tüm tablo üzerinden gerçekleştirir.
