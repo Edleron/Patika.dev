@@ -20,7 +20,9 @@
 1. **actor** ve **customer** tablolarında bulunan **first_name** sütunları için tüm verileri sıralayalım.
 2. **actor** ve **customer** tablolarında bulunan **first_name** sütunları için kesişen verileri sıralayalım.
 3. **actor** ve **customer** tablolarında bulunan **first_name** sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
-4. İlk 3 sorguyu tekrar eden veriler için de yapalım.
+4. **actor** ve **customer** tablolarında bulunan **first_name** sütunları için tüm verileri sıralayalım. tekrar eden veriler için de yapalım.
+5. **actor** ve **customer** tablolarında bulunan **first_name** sütunları için kesişen verileri sıralayalım. tekrar eden veriler için de yapalım.
+6. ***actor** ve **customer** tablolarında bulunan **first_name** sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım. tekrar eden veriler için de yapalım.
 
 ---
 
@@ -50,6 +52,18 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/SourceCode/Answe
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/SourceCode/Answer-4.sql
 ```
 
+* Soruce Code Answer - 5
+
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/SourceCode/Answer-5.sql
+```
+
+* Soruce Code Answer - 6
+
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/SourceCode/Answer-6.sql
+```
+
 ### Result
 
 * Result Answer - 1
@@ -74,6 +88,18 @@ https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/Result/Result-3.
 
 ```
 https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/Result/Result-4.csv
+```
+
+* Result Answer - 5
+
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/Result/Result-5.csv
+```
+
+* Result Answer - 6
+
+```
+https://github.com/Edleron/Patika.dev/blob/main/Sql/HomeWork-11/Result/Result-6.csv
 ```
 
 ### Who do I talk to?
